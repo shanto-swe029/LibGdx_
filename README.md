@@ -1,3 +1,14 @@
+<div style = "font-family : Kristen ITC; background : black;">
+	<marquee>
+		<font size = "24" color = "white">
+			" Welcome To "
+			<mark> Arif </mark>
+			"'s Blog "
+		</font>
+	</marquee>
+	</div>
+	
+
 # LibGdx
 
 ---
