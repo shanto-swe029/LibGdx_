@@ -18,8 +18,8 @@ A Java Game Engine Codes
 ## 02, 03: Handling Mouse, Keyboard & Touch Input
 
 - It can be done in two ways
-	a. By using ___Gdx.input.isKeyPressed(Input.Keys.key_name)___ as a logic parameter inside the __render()__ method
-	b. By implementing __InputProcessor__ interface and _@Overddiding_ all of its methods
+	i. By using ___Gdx.input.isKeyPressed(Input.Keys.key_name)___ as a logic parameter inside the __render()__ method
+	ii. By implementing __InputProcessor__ interface and _@Overddiding_ all of its methods
 
 
 ## 04, 05: Audio
@@ -42,17 +42,17 @@ A Java Game Engine Codes
 <br>
 
 - Using a camera has a couple of advantages.
-	a. It gives you an easier way of dealing with device resolution as LibGDX will scale the results up to match your device resolution.
-	b. It also makes it easier to move the view around when your scene is larger than a single screen.
+	- It gives you an easier way of dealing with device resolution as LibGDX will scale the results up to match your device resolution.
+	- It also makes it easier to move the view around when your scene is larger than a single screen.
 
 <br>
 
 - There are a number of different Viewports available:
-	a. ExtendViewport 
-	b. FillViewport 
-	c. FitViewport
-	d. StretchViewport
-	e. ScreenViewport
+	- ExtendViewport 
+	- FillViewport 
+	- FitViewport
+	- StretchViewport
+	- ScreenViewport
 
 
 
