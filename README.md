@@ -1,15 +1,10 @@
-<div style = "font-family : Kristen ITC; background : black;">
-	<marquee>
-		<font size = "24" color = "white">
-			" Welcome To "
-			<mark> Arif </mark>
-			"'s Blog "
-		</font>
-	</marquee>
-	</div>
-	
+<div style="font-family : Kristen ITC; background : black;">  
+<marquee><font size="24" color="white">
 
-# LibGdx
+Welcome To Shanto's <mark>LibGDX</mark> Blog
+
+</font></marquee></div>
+
 
 ---
 
